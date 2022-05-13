@@ -1,0 +1,53 @@
+{
+  "GUNDAM": "1",
+  "UNIT": [
+    {
+      "NAME": "Strike Gundam",
+      "MODEL": "GAT-X105",
+      "PILOT": "Kira Yamto",
+      "TEAM": "O.M.N.I"
+    },
+    {
+      "NAME": "Freedom Gundam",
+      "MODEL": "  ",
+      "PILOT": "Kira Yamto",
+      "TEAM": "O.M.N.I"
+    },
+    {
+      "NAME": "Aegis Gundam",
+      "MODEL": "GAT-X303",
+      "PILOT": "Athrun Zala",
+      "TEAM": "Z.A.F.T"
+    },
+    {
+      "NAME": "Justice Gundam",
+      "MODEL": "ZGMF-X09A",
+      "PILOT": "Athrun Zala",
+      "TEAM": "O.M.N.I"
+    },
+    {
+      "NAME": "Raider Gundam",
+      "MODEL": "GAT-X370",
+      "PILOT": "Clotho Buer",
+      "TEAM": "Z.A.F.T"
+    },
+    {
+      "NAME": "Calamity Gundam",
+      "MODEL": "GAT-X131",
+      "PILOT": "Orga Sabnak",
+      "TEAM": "Z.A.F.T"
+    },
+    {
+      "NAME": "Providence Gundam",
+      "MODEL": "ZGMF-X13A",
+      "PILOT": "Rau Le Creuset",
+      "TEAM": "Z.A.F.T"
+    },
+    {
+      "NAME": "a Gundam",
+      "MODEL": "",
+      "PILOT": "",
+      "TEAM": ""
+    }
+  ]
+}
